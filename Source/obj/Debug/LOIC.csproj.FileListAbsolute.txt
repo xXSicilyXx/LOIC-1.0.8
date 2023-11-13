@@ -1,0 +1,15 @@
+C:\Users\silvi\Downloads\LOIC-1.0.8-binary\Source\bin\Debug\LOIC.exe.config
+C:\Users\silvi\Downloads\LOIC-1.0.8-binary\Source\bin\Debug\LOIC.exe
+C:\Users\silvi\Downloads\LOIC-1.0.8-binary\Source\bin\Debug\LOIC.pdb
+C:\Users\silvi\Downloads\LOIC-1.0.8-binary\Source\bin\Debug\IRC.pdb
+C:\Users\silvi\Downloads\LOIC-1.0.8-binary\Source\obj\Debug\LOIC.csproj.AssemblyReference.cache
+C:\Users\silvi\Downloads\LOIC-1.0.8-binary\Source\obj\Debug\LOIC.frmEZGrab.resources
+C:\Users\silvi\Downloads\LOIC-1.0.8-binary\Source\obj\Debug\LOIC.frmMain.resources
+C:\Users\silvi\Downloads\LOIC-1.0.8-binary\Source\obj\Debug\LOIC.frmEULA.resources
+C:\Users\silvi\Downloads\LOIC-1.0.8-binary\Source\obj\Debug\LOIC.frmWtf.resources
+C:\Users\silvi\Downloads\LOIC-1.0.8-binary\Source\obj\Debug\LOIC.Properties.Resources.resources
+C:\Users\silvi\Downloads\LOIC-1.0.8-binary\Source\obj\Debug\LOIC.csproj.GenerateResource.cache
+C:\Users\silvi\Downloads\LOIC-1.0.8-binary\Source\obj\Debug\LOIC.csproj.CoreCompileInputs.cache
+C:\Users\silvi\Downloads\LOIC-1.0.8-binary\Source\obj\Debug\LOIC.csproj.CopyComplete
+C:\Users\silvi\Downloads\LOIC-1.0.8-binary\Source\obj\Debug\LOIC.exe
+C:\Users\silvi\Downloads\LOIC-1.0.8-binary\Source\obj\Debug\LOIC.pdb

@@ -1,0 +1,7 @@
+C:\Users\silvi\Downloads\LOIC-1.0.8-binary\Source\bin\Debug\IRC.dll
+C:\Users\silvi\Downloads\LOIC-1.0.8-binary\Source\bin\Debug\IRC.pdb
+C:\Users\silvi\Downloads\LOIC-1.0.8-binary\Source\IRC\obj\Debug\IRC.csproj.AssemblyReference.cache
+C:\Users\silvi\Downloads\LOIC-1.0.8-binary\Source\IRC\obj\Debug\IRC.csproj.CoreCompileInputs.cache
+C:\Users\silvi\Downloads\LOIC-1.0.8-binary\Source\IRC\obj\Debug\IRC.csproj.CopyComplete
+C:\Users\silvi\Downloads\LOIC-1.0.8-binary\Source\IRC\obj\Debug\IRC.dll
+C:\Users\silvi\Downloads\LOIC-1.0.8-binary\Source\IRC\obj\Debug\IRC.pdb
